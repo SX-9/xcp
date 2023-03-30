@@ -1,0 +1,15 @@
+{
+  "name": "xcp-serve",
+  "version": "1.0.0",
+  "description": "Cross Copy Paste",
+  "bin": "index.js",
+  "keywords": [
+    "cross",
+    "copy",
+    "Paste"
+  ],
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
